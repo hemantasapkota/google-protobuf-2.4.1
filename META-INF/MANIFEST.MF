@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Google Protobuf
+Bundle-SymbolicName: google-protobuf-2.4.1
+Bundle-Version: 2.4.1
+Bundle-ClassPath: protobuf-java-2.4.1.jar
+Bundle-Vendor: Google
+Export-Package: com.google.protobuf;version="2.4.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

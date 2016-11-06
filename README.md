@@ -10,3 +10,7 @@ Clone this repository and put it in your Eclipse workspace. After cloning, you s
 How to Use
 =====================
 Add this project as a dependency to your custom Eclipse plugin/RCP
+
+## Links
+
+[blog post](http://hemantasapkota.github.io/posts/getting-started-with-google-protobuf-in-eclipse/)
